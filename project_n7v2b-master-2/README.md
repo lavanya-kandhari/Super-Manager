@@ -1,4 +1,4 @@
-# Supermarket Management system
+# Super-Manager
 
 ## Application Overview 
 This application is supermarket menu and cart management system for a supermarket:
